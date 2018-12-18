@@ -4,10 +4,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-
-#Alterado
-#Carlos
-
 typedef struct graph_ptr{
    short cur;
    short ini;
